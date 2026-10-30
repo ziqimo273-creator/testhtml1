@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ziqimo273-creator.github.io/testhtml1/sitemap.xml
